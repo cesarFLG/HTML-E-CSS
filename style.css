@@ -276,17 +276,3 @@ footer {
     padding-bottom: 35px;
 }
 
-@media (max-width: 768px) {
-    .navbar {
-        flex-direction: column;
-        gap: 15px;
-        padding: 15px;
-    }
-
-    .hero-image img {
-        height: 250px;
-    }
-
-    .cabecalho h1 {
-        font-size: 28px;
-    }
