@@ -418,3 +418,9 @@ main section p {
     padding-bottom: 35px;
 }
 
+@media (max-width: 853.98px) {
+ .sobreconteudo{
+    flex-direction: column;
+    
+ }
+}
